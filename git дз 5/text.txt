@@ -1,0 +1,11 @@
+0
+0
+2
+3
+
+3
+<<<<<<< HEAD
+1
+=======
+a2
+>>>>>>> d9fac38 (3 alternative 2 variant)
